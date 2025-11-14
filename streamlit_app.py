@@ -6,7 +6,7 @@ import PyPDF2
 st.title("PDF/Text Summarizer")
 st.write("Upload a PDF or paste text to get a concise summary.")
 st.sidebar.info("Developed by Hemant Tyagi")
-st.sidebar.info("GitHub:\nhttps://github.com/Hemant-tyagi9/Ternary-CPU",
+st.sidebar.info("GitHub:https://github.com/Hemant-tyagi9/",
                 "This app is build to summarize the lengthy chapters to small short notes which saves your time.")
 
 @st.cache_resource
